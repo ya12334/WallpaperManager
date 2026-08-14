@@ -1,0 +1,12 @@
+# build artifacts
+*.exe
+*.res.o
+*.o
+
+# runtime state
+WallpaperManager.cfg
+WallpaperManager.log
+
+# release artifacts and packaging helper
+*.zip
+package.ps1
