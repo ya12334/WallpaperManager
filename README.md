@@ -1,7 +1,5 @@
 # WallpaperManager
 
-[English](README.en.md) | [简体中文](README.md)
-
 一个纯 C（Win32 API）编写的 Windows 壁纸管理器，是原 `WallpaperManager.Bat`（824 行批处理）的模块化重构版本，由 **DeepSeek v4 Pro** 推理模型生成。
 
 > **仅支持 Windows**，测试环境：Windows 11 24H2（运行用户 Administrator）。
